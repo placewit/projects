@@ -1,1 +1,1 @@
-# projects
+# Collection of step-by-step guides for building personal projects
